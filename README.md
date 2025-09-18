@@ -17,7 +17,7 @@ This repository contains my Next.js assignments submitted as part of the Codingg
 ## How to Run
 1. Clone the repository
 ```bash
-git clone [https://github.com/daxp472/Next.js-Assignments]
+git clone https://github.com/daxp472/Next.js-Assignments
 ```
 2. Navigate to specific assignment folder
 ```bash
@@ -34,10 +34,10 @@ npm run dev
 
 ## Assignment List
 - Assignment 1: [API Testing with Next.js (App Router) and MongoDBe]
-;; - Assignment 2: [Assignment 2 Title]
+
 
 ## Author
-[Dax Patel]
+Dax Patel
 
 ## Acknowledgments
 - Codinggita Program
